@@ -4,7 +4,8 @@
 * Inside the DS2 folder, put the train dataset into a folder named "train", put the validation data into a folder named "validation", and the test data inside a folder named "test". 
 * In this dataset, we have two classes: Normal, and Pneumonia
 * The structure of your dataset folder (i.e., DS2) should be as follows:
-  #DS2
+
+#DS2
     - train
         -NORMAL
         -PNEUMONIA
