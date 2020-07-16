@@ -6,14 +6,24 @@
 * The structure of your dataset folder (i.e., DS2) should be as follows:
 
 #DS2
+
     - train
+    
         -NORMAL
+        
         -PNEUMONIA
+        
     - validation
+    
          -NORMAL
+         
          -PNEUMONIA
+         
     - test
+    
          -NORMAL
+         
          -PNEUMONIA
+         
          
  * Now run the program.
